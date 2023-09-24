@@ -102,7 +102,7 @@ const Services = () => {
               <h3 className="services__modal-title">Creative Content Writer</h3>
               <p className="services__modal-description">
                 I have published blogs on blogger, you can check it out{" "}
-                <a href="https://everyotaku.blogspot.com/">here</a>.
+                <a href="https://blog.dwiky.pm">here</a>.
               </p>
 
               <ul className="services__modal-services grid">
