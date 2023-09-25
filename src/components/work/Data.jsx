@@ -8,14 +8,14 @@ export const projectsData = [
     image: Work7,
     title: "Portfolio Website",
     category: "web",
-    deploymentLink: "https://github.com/dwikypm",
+    deploymentLink: "https://dwikypm.me",
   },
   {
     id: 2,
     image: Work1,
-    title: "TO-DO (MERN STACK)",
+    title: "A Static blog using next js and notion",
     category: "web",
-    deploymentLink: "#",
+    deploymentLink: "https://blog.dwikypm.me",
   },
   {
     id: 3,
