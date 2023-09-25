@@ -101,7 +101,7 @@ const Services = () => {
 
               <h3 className="services__modal-title">Creative Content Writer</h3>
               <p className="services__modal-description">
-                I have published blogs on blogger, you can check it out{" "}
+                I have published article on blog, you can check it out{" "}
                 <a href="https://blog.dwiky.pm">here</a>.
               </p>
 
