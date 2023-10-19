@@ -47,7 +47,7 @@ const Qualifications = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">IP : 75</h3>
+                <h3 className="qualification__title">IP : 86</h3>
                 <span className="qualification__subtitle">
                   SMK YPT 2 Purbalingga
                 </span>
